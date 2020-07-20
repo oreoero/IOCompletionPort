@@ -1,0 +1,8 @@
+﻿  IOCompletionPort.cpp
+C:\Users\chunq\OneDrive\Projects\iocp_server\iocp_server\IOCompletionPort.cpp(241,58): warning C4474: 'printf_s' : too many arguments passed for format string
+C:\Users\chunq\OneDrive\Projects\iocp_server\iocp_server\IOCompletionPort.cpp(241,58): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\chunq\OneDrive\Projects\iocp_server\iocp_server\IOCompletionPort.cpp(270,59): warning C4474: 'printf_s' : too many arguments passed for format string
+C:\Users\chunq\OneDrive\Projects\iocp_server\iocp_server\IOCompletionPort.cpp(270,59): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  main.cpp
+  Generating Code...
+  iocp_server.vcxproj -> C:\Users\chunq\OneDrive\Projects\iocp_server\Debug\iocp_server.exe

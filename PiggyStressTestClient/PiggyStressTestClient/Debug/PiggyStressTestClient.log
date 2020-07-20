@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  PiggyStressTestClient.cpp
+  MainDlg.cpp
+  Client.cpp
+  Generating Code...
+Client.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PiggyStressTestClient.vcxproj -> C:\Users\chunq\OneDrive\Projects\IOCompletionPort\PiggyStressTestClient\Debug\PiggyStressTestClient.exe
